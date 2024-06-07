@@ -1,36 +1,17 @@
 # Research website
 
 ## [Title of Project]
-This repository contains a research project conducted by Dr Shino Takayama and Dr Yuqing Liu from the School of Economics at the University of Queensland. 
+This repository documents a research project conducted by Dr Shino Takayama and Dr Yuqing Liu from the School of Economics at the University of Queensland (UQ).  
+Feel free to contact the researchers if you have any queries or are interested to know more. 
+## Contact information
+#### https://www.shinotakayama.com/
+#### https://sites.google.com/view/yuqingliu/home
 
-Take note, GitHub Pages is not a Content Management
-System (CMS) like WordPress where a user can manage data
-through a database and all the backend scripts
-for a dynamic website but GitHub Pages can 
-even be more powerful than that.
+This website is created using Github pages to showcase the data, codes, and key results.
+The creator of the website is Guan-Jia Huang, a research assistant. 
 
-For now, even for non-technical projects, GitHub Pages
-can be used to generate static web pages. Just static?
-Well, from the definition of GitHub itself, you can't run
-server-side scripting. But remember, Web 1.0 
-was all about static web pages and we all know
-the advantages of static pages against dynamic ones. 
 
-## Why GitHub Pages?
-Ideally, GitHub Pages was intended for a project's
-documentation. However, GitHub allowed users to use
-it for other purposes within the boundaries given.
-For instance, creating a site to promote your business
-is not allowed.
-But other than those limitations, 
-you have the option to use GitHub Pages
-when you want to display information
-and you want to share it to the rest of the world,
-just like a blogging site. You can even
-add an advertisement and donation button to enable 
-financial support.
-
-Remember, when you are creating a digital content,
+<!-- Remember, when you are creating a digital content,
 it's better to use a plaintext file. Markdown is the
 best format, as it can simply be turned into
 HTML. And as we know, when it's HTML format, that's
@@ -240,20 +221,4 @@ About custom domain in GitHub Pages:
 
 <https://help.github.com/en/articles/custom-domain-redirects-for-github-pages-sites>
 
-## More Of My Topics
 
-#### <https://github.com/jdevstatic/basic-electronics>
-
-#### <https://github.com/jdevstatic/programming-core-concepts>
-
-#### <https://github.com/jdevstatic/java>
-
-#### <https://github.com/jdevstatic/lightweight-web-server>
-
-#### <https://github.com/jdevstatic/java-coding-problems>
-
-#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
-
-#### <https://github.com/jdevstatic/PureBasic-Scrabble>
-
-#### <https://github.com/jdevstatic/hacking-the-github-stats>
