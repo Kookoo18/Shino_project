@@ -1,49 +1,17 @@
-# Research website
+# Shino Research website
 
-## [Title of Project]
-This repository documents a research project conducted by Dr Shino Takayama and Dr Yuqing Liu from the School of Economics at the University of Queensland (UQ).  
-Feel free to contact the researchers if you have any queries or are interested to know more. 
-## Contact information
-#### https://www.shinotakayama.com/
-#### https://sites.google.com/view/yuqingliu/home
+This repository documents two research projects from the School of Economics at the University of Queensland (UQ).  
+The first is called
+## Price manipulation, dynamic informed trading, and the uniqueness of equilibrium in sequential trading
+by Dr Shino Takayama. 
+The second project is called '' by Dr Yuqing Liu. 
+This website itself is created by the research assistant, Guan-Jia Huang. 
 
-This website is created using Github pages to showcase the data, codes, and key results.
-The creator of the website is Guan-Jia Huang, a research assistant. 
+For more information about the researchers, see:
+### https://www.shinotakayama.com/
+### https://sites.google.com/view/yuqingliu/home
 
-
-<!-- Remember, when you are creating a digital content,
-it's better to use a plaintext file. Markdown is the
-best format, as it can simply be turned into
-HTML. And as we know, when it's HTML format, that's
-the very consumption of web browsers, isn't it?
-
-This also reinforces the writers to use GitHub
-as their development site because it is more
-efficient as it uses `git` to record the 
-file's history. Even if Google Docs has a
-similar version tracking, still `git`
-cannot be replaced.
-
-Now, here is the catch: when you want to distribute
-your content as hard copy,
-in Google Chrome, you can simply
-right click the page and click `Print` 
-you now have the PDF version of your content.
-Also, say, you are creating content for another
-website, you can simply embed the page and
-your job is done. You have the repo as the 
-active site for its development, maybe, others
-will collaborate too, and then the GitHub Pages
-generated page as the output. 
-If ever you need a Google Docs
-or Microsoft Word
-version of this, simply copy the rendered
-Markdown file of GitHub and paste it
-on Google Docs or Microsoft Word, the format
-will still be correct.
-
-As you can see, it's very practical.
-
+<!--
 ## How To
 In the same way you keep your pages and assets in one
 directory and subdirectories on the server, it is 
@@ -163,59 +131,8 @@ the pages, either from:
 > 5. And select a theme also if you want.
 >
 > 6. You visit the site provided. You now have your web page.
+-->
 
-***
-
-## The Trick
-GitHub Pages generates a static site but 
-don't you know that you can deploy games using this?
-The trick is actually the code: if that is purely 
-JavaScript, then it will work. To prove this, I deployed
-demo games from Vanilla Web Projects using GitHub Pages:
-
-<https://jdevstatic.github.io/hangman-game/>
-
-<https://jdevstatic.github.io/breakout-game/>
-
-As you can see here, because of the pure JavaScript,
-it enables the site not to be static. Remember,
-GitHub is referring to its being static 
-for the server-side,
-so you can't directly run, say, a PHP script. And
-since JavaScript is browser-side scripting, it
-will work as expected.
-
-
-## Useful Links
-For further details, pleaes visit these following sites:
-
-<https://pages.github.com>
-
-<https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages>
-
-<https://help.github.com/en/articles/user-organization-and-project-pages>
-
-And it is important to know how GitHub Pages
-differs from WordPress:
-
-<https://viktorsmari.github.io/2019/07/14/github-pages-vs-wordpress.html> 
-
-For my very own example, this site 
-
-<https://jdevstatic.github.io/C-Programming-Tutorial/>
-
-was built by GitHub Pages,
-Jekyll being the static site generator.
-When you click `View on GitHub`, that is the repository
-where all the assets and default documents reside. 
-It's that simple. 
-
-And, for those who don't know yet how to
-host a site using a computer as a server,
-
-<https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-1-545940164ab9>
-
-About custom domain in GitHub Pages:
 
 <https://help.github.com/en/articles/using-a-custom-domain-with-github-pages>
 
