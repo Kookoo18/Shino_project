@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uniqueness of Equilibrium in Price Manipulation</title>
+    <title>niqueness of Equilibrium and Dynamics of Learning with Price Manipulation</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -15,10 +15,9 @@
     </header>
     
     <main class="content">
-        <h1>Uniqueness of Equilibrium and Dynamics of Learning with Price Manipulation</h1>
+        <h1>Theoretical Investigation of Chakraborty and Yilmaz Model</h1>
         <p>Abstract: This paper examines the Chakraborty and Yilmaz (2004) model of dynamic trading by an informed trader and investigates the uniqueness of equilibrium. In our model, the informed trader understands the effect of current trades on future prices and future trading profits, thus has an incentive to decrease the rate at which the market learns her private information. We demonstrate how the informed trader's strategy affects market learning of her private information, both theoretically and computationally.</p>
         
-        <!-- Additional sections can go here -->
         <section>
             <h2>Key Findings</h2>
             <p>Discuss major results and implications here.</p>
@@ -32,15 +31,12 @@
         <section>
             <h2>References</h2>
             <ul>
-                <li>Chakraborty, Yilmaz (2004). Title of the paper. Journal Name.</li>
-                <!-- More references -->
+                <li>HALL, P. and HEYDE, C.C. (1980) Martingale limit theory and its application. NEW YORK: ACADEMIC PRESS.</li>
+                <li> Almost Sure Behavior of Sums of Independent Random Variables and Martingales - Strassen </li>
+<li> Heyde, C.C. and Brown, B.M. (1970) ‘On the departure from normality of a certain class of Martingales’, The Annals of Mathematical Statistics, 41(6), pp. 2161–2165. doi:10.1214/aoms/1177696722. </li>
             </ul>
         </section>
     </main>
 
-    <footer>
-        <p>Contact information: [Your Email]</p>
-        <p>© 2024 by Your Name. All rights reserved.</p>
-    </footer>
 </body>
 </html>
