@@ -3,15 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page 2</title>
-    <link rel="stylesheet" href="styles.css"> <!-- if you have a CSS file -->
+    <title>Uniqueness of Equilibrium in Price Manipulation</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <nav>
-        <a href="index.html">Project 1</a>
-        <a href="page2.html">Project 2</a>
-    </nav>
-    <h1>Title: The uniqueness of equilibrium and dynamics of learning with price manipulation</h1>
-    <p>Abstract: This paper examines the Chakraborty and Yilmaz (2004) model of dynamic trading by an informed trader and investigates the uniqueness of equilibrium. In our model, the informed trader understands the effect of current trades on future prices and future trading profits, so she has an incentive to decrease the rate at which the market learns her private information.  We demonstrate how the informed trader's strategy affects market learning of her private information, both theoretically and computationally.</p>
+    <header>
+        <nav>
+            <a href="index.html">Project 1</a>
+            <a href="page2.html" class="active">Project 2</a>
+        </nav>
+    </header>
+    
+    <main class="content">
+        <h1>Uniqueness of Equilibrium and Dynamics of Learning with Price Manipulation</h1>
+        <p>Abstract: This paper examines the Chakraborty and Yilmaz (2004) model of dynamic trading by an informed trader and investigates the uniqueness of equilibrium. In our model, the informed trader understands the effect of current trades on future prices and future trading profits, thus has an incentive to decrease the rate at which the market learns her private information. We demonstrate how the informed trader's strategy affects market learning of her private information, both theoretically and computationally.</p>
+        
+        <!-- Additional sections can go here -->
+        <section>
+            <h2>Key Findings</h2>
+            <p>Discuss major results and implications here.</p>
+        </section>
+        
+        <section>
+            <h2>Data and Analysis</h2>
+            <p></p>
+        </section>
+
+        <section>
+            <h2>References</h2>
+            <ul>
+                <li>Chakraborty, Yilmaz (2004). Title of the paper. Journal Name.</li>
+                <!-- More references -->
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact information: [Your Email]</p>
+        <p>© 2024 by Your Name. All rights reserved.</p>
+    </footer>
 </body>
 </html>
